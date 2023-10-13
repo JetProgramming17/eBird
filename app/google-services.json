@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347514334524",
+    "project_id": "ebird-a3470",
+    "storage_bucket": "ebird-a3470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347514334524:android:b77e5ba4b99a3b1b9b8239",
+        "android_client_info": {
+          "package_name": "com.example.ebird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTwvpKQ-FoO9OtKhruibvyrWrNVwPWSN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
